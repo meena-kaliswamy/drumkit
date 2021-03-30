@@ -1,6 +1,6 @@
 # Drum Kit
 
-Come up with beats by playing the provided percussion instruments.
+Create beats by playing the provided percussion instruments.
 
 **To play:**
 
